@@ -1,4 +1,4 @@
-# A Lenda do Cabeça de Abóbora 🎃
+# A Lenda do Cabeça de Abóbora
 Bem-vindo à Monstrolândia, um mundo onde o medo é a moeda de status social.
 
 Atchim, um goblin desajeitado e irresistivelmente fofo, decide desafiar as expectativas ao apresentar sua mais nova criação, a "Abóbora de Halloween". Neste envolvente Metroidvania 2D, desenvolvido pela Mapinguari Game Studio, embarque em uma jornada única e divertida.
