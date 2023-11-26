@@ -12,7 +12,7 @@ Armando-se apenas com uma faca de cozinha e sua cabeça de abóbora assustadora,
 ## Destaques do Jogo
 - **Metroidvania 2D:** Explore um mundo vasto e interconectado, desbloqueando novas áreas e habilidades assustadoras.
 - **Desenvolvimento Cativante:** Acompanhe a jornada emocionante de Atchim para provar que tamanho não é documento no terror.
-- **Arte Escura:** Visualize a Monstrolândia através de pixels HORRIPILANTES, capturando a essência única do universo do jogo.
+- **Dark Pixel Art:** Visualize a Monstrolândia através de pixels HORRIPILANTES, capturando a essência única do universo do jogo.
 - **Trilha Sonora Atmosférica:** Imerja-se na atmosfera do mundo dos monstros com uma trilha sonora envolvente que destaca cada momento da jornada.
 
 ## Sobre a Mapinguari Game Studio
