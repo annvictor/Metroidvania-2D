@@ -15,6 +15,10 @@ Armando-se apenas com uma faca de cozinha e sua cabeça de abóbora assustadora,
 - **Dark Pixel Art:** Visualize a Monstrolândia através de pixels HORRIPILANTES, capturando a essência única do universo do jogo.
 - **Trilha Sonora Atmosférica:** Imerja-se na atmosfera do mundo dos monstros com uma trilha sonora envolvente que destaca cada momento da jornada.
 
+## Tecnologias Utilizadas
+- **GML:** O GML é uma linguagem de programação de scripts usada no software GameMaker Studio, que é uma ferramenta de desenvolvimento de jogos.
+- **Aseprite:** O Aseprite é um software de criação e edição de pixel art. Ele é utilizado por artistas e desenvolvedores de jogos para criar gráficos pixelados, que são comuns em jogos indies ou retrôs.
+
 ## Sobre a Mapinguari Game Studio
 *A Lenda do Cabeça de Abóbora* é uma criação da Mapinguari Game Studio, dedicada a proporcionar experiências de jogo únicas e memoráveis.
 
