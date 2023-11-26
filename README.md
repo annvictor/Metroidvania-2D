@@ -16,10 +16,10 @@ Armando-se apenas com uma faca de cozinha e sua cabeça de abóbora assustadora,
 - **Trilha Sonora Atmosférica:** Imerja-se na atmosfera do mundo dos monstros com uma trilha sonora envolvente que destaca cada momento da jornada.
 
 ## Tecnologias Utilizadas
-- **GML:** O GML é uma linguagem de programação de scripts usada no software GameMaker Studio, que é uma ferramenta de desenvolvimento de jogos.
-- **Aseprite:** O Aseprite é um software de criação e edição de pixel art. Ele é utilizado por artistas e desenvolvedores de jogos para criar gráficos pixelados, que são comuns em jogos indies ou retrôs.
+- **GML (Game Maker Language):** A GML é uma linguagem de programação de scripts usada no GameMaker Studio, que é uma ferramenta de desenvolvimento de jogos.
+- **Aseprite:** O Aseprite é um software de criação e edição de pixel art. Ele é utilizado por artistas e desenvolvedores de jogos para criar gráficos pixelados, uma estética frequente em jogos indies ou de estilo retrô.
 
 ## Sobre a Mapinguari Game Studio
 *A Lenda do Cabeça de Abóbora* é uma criação da Mapinguari Game Studio, dedicada a proporcionar experiências de jogo únicas e memoráveis.
 
-Dê vida à lenda, enfrente seus medos e prove que até mesmo um goblin desajeitado pode se tornar uma lenda assustadora em Monstrolândia.
+Dê vida à lenda, enfrente seus medos, ou melhor ainda, encarne o próprio medo e prove que até mesmo um goblin desajeitado pode se tornar uma lenda assustadora em Monstrolândia.
